@@ -20,7 +20,7 @@ glColor3f (1.0, 1.0, 0.0);
 
     // -----triangle-----
 	glBegin(GL_TRIANGLES);
-    glVertex3f(6.0f, 2.0f, 0.0f);
+    	glVertex3f(6.0f, 2.0f, 0.0f);
 	glVertex3f(9.0f, 2.0f, 0.0f);
 	glVertex3f(7.5, 4.0f, 0.0f);
 	glEnd();
